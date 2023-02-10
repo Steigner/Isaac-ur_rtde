@@ -35,7 +35,7 @@ user@user-pc:~/.../isaac_sim-2022.2.0$ ./python.sh test_fravebot/isaac_rtde.py -
 ## Video!
 
 <p align="center">
-<a href="https://www.youtube.com/watch?v=IJtdp1wdPPo"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="Nvidia Isaac Sim Universal Robots UR5e RTDE"/></a>
+<a href="https://www.youtube.com/watch?v=L3BNDRvnJjo"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="Nvidia Isaac Sim Universal Robots UR5e RTDE"/></a>
 </p>
 
 ## :information_source: Contacts

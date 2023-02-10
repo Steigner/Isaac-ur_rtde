@@ -1,7 +1,7 @@
 # Nvidia Isaac Universal Robots RTDE communication
 
 ## Introduction
-This example was created in collaboration with [Fravebot](https://www.fravebot.com/) company. This example is a simple demonstration of using Nvidia's Isaac Sim software to control a collaborative robot from Universal Robots.
+This example was created in collaboration with [Fravebot](https://www.fravebot.com/) company. This example is a simple demonstration of using Nvidia's Isaac Sim software to control a collaborative robot UR5e from Universal Robots.
 
 ```javascript
 Software
@@ -32,8 +32,11 @@ user@user-pc:~/.../isaac_sim-2022.2.0$ ./python.sh -m pip install ur_rtde
 user@user-pc:~/.../isaac_sim-2022.2.0$ ./python.sh test_fravebot/isaac_rtde.py --robot-ip 192.168.200.135
 ```
 
-## Video
+## Video!
 
+<p align="center">
+<a href="https://www.youtube.com/watch?v=IJtdp1wdPPo"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="Nvidia Isaac Sim Universal Robots UR5e RTDE"/></a>
+</p>
 
 ## :information_source: Contacts
 

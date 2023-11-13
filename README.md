@@ -40,4 +40,4 @@ user@user-pc:~/.../isaac_sim-2022.2.0$ ./python.sh test_fravebot/isaac_rtde.py -
 
 ## :information_source: Contacts
 
-:mailbox: m.juricek@outlook.com
+:mailbox: juricek@fravebot.com
